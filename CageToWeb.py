@@ -3,7 +3,7 @@ import websockets
 import json
 
 # URL WebSocket-сервера
-websocket_server_url = 'ws://192.168.31.189:2025'
+websocket_server_url = ''
 
 local_client = None
 
